@@ -451,7 +451,7 @@ export default class Markmirror extends React.Component {
     if (this.props.renderButton) {
       return this.props.renderButton(this, command, handler, pressed, title, label);
     }
-    return <Button command={command} handler={handler} pressed={pressed} title={title} label={label} />;
+    return <Button type="button" command={command} handler={handler} pressed={pressed} title={title} label={label} />;
   };
 
   /**
