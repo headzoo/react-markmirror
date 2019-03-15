@@ -2,8 +2,6 @@ React Markmirror
 ==================
 A WYSIWYG markdown editor for [React](http://facebook.github.io/react) which uses [CodeMirror](https://codemirror.net).
 
-An demo is available at https://stories.headzoo.io/react-markmirror.
-
 [![Build Status](https://img.shields.io/travis/headzoo/react-markmirror/master.svg?style=flat-square)](https://travis-ci.org/headzoo/react-markmirror)
 [![NPM Downloads](https://img.shields.io/npm/dm/react-markmirror.svg?style=flat-square)](https://www.npmjs.com/package/react-markmirror)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://raw.githubusercontent.com/headzoo/react-markmirror/master/LICENSE)
